@@ -5,5 +5,5 @@ tags:
   - Location
   - Island
 ---
-![[Celestial_Crest.png|center|600]]
+![[Celestial_Crest.png|center|800]]
 

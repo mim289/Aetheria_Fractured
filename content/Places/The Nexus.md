@@ -5,4 +5,4 @@ tags:
   - Building
   - Location
 ---
-![[content/The_Nexus.png|center|600]]
+![[content/The_Nexus.png|center|800]]

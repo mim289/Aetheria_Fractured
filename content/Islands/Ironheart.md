@@ -5,4 +5,4 @@ tags:
   - Island
   - Location
 ---
-![[Ironheart.png|center|600]]
+![[Ironheart.png|center|800]]

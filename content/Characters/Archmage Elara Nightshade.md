@@ -7,7 +7,7 @@ tags:
   - Good
 ---
 
-![[Elara_Nightshade.png|center|600px]]
+![[Elara_Nightshade.png|center|800px]]
 
 
 ## Personality

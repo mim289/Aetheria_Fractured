@@ -6,7 +6,7 @@ tags:
   - Island
 ---
 
-![[Weaveward.png|center|600]]
+![[Weaveward.png|center|800]]
 
 
 ## Geographical Information

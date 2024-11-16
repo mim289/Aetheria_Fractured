@@ -4,7 +4,7 @@ draft: false
 tags:
   - Item
 ---
-![[Airship.png| center | 600]]
+![[Airship.png| center | 800]]
 
 Created originally on [[Ironheart]], these vessels are now mass-produced to traverse the skies. Large enough to comfortable fit 100+ people, these are the main transport for people who cant afford the "small" donation the Nexus requires for each use.
 
