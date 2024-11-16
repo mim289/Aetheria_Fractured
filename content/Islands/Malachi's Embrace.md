@@ -1,5 +1,5 @@
 ---
-title: Default
+title: Malachi's Embrace
 draft: false
 tags:
   - Location

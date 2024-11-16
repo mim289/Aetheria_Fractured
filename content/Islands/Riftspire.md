@@ -1,5 +1,5 @@
 ---
-title: Default
+title: Riftspire
 draft: false
 tags:
   - Location
