@@ -1,8 +1,7 @@
 ---
-title: Ironheart
+title: Verdance
 draft: false
 tags:
   - Island
   - Location
 ---
-![[Ironheart.png|center|600]]
