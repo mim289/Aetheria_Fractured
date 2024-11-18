@@ -5,7 +5,7 @@ tags:
   - Building
   - Location
 ---
-![[content/The_Nexus.png|center|800]]
+![[The_Nexus.png|center|800]]
 
 ## History
 
