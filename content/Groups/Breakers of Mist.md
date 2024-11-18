@@ -11,4 +11,5 @@ This was a group of adventurers who were brave enough to explore [[Mistveil]] un
 ## Members
 - Wizard Elara Nightshade (aka [[Archmage Elara Nightshade]])
 - Sorcerer Malachi Gravenheart (aka [[Malachi the Fallen]])
-- 
+- Fighter [[Ormuk Ironstride]]
+- Ranger [[Elira Mistthorn]] 
