@@ -20,7 +20,7 @@ We are also using the 2024 ruleset, and will be playing on Roll20 if we need a m
 
 ## Character Origin Inspiration
 
-This section is to serve as some jumping off point for where your character may have come from, and some of their life story!
+This section is to serve as some jumping off point for where your character may have come from, and some of their life story! These are not hard and fast rules, just some ideas to get the creative engine going! There is nothing stopping you from being a Triton Barbarian from [[Ironheart]], who's mother was originally from [[The Wake]], and who's father was a warrior from [[Riftspire]] who was taking a rest from the battle field in [[The Wake]] when they met. They fell madly in love and moved to the big city!
 
 #### Locations
 
